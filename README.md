@@ -1,2 +1,2 @@
-# Auto_ML
+# AutoML
 Packages for Auto ML
