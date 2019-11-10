@@ -6,3 +6,6 @@ Packages for AutoML
 
 # Reduce Variance
 - https://machinelearningmastery.com/how-to-reduce-model-variance/
+
+# Interviews
+- https://resources.workable.com/machine-learning-engineer-interview-questions
